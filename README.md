@@ -1,7 +1,8 @@
 # GO_AWS_Lambda
 Spring 2017 CS263 Project repo.
 
-Implement profiling for Go AWS Lambda functions. Test, stress, use, and extend this FaaS system (single node and multinode). Write a set of different go functions from scratch that you use to do something interesting in the system. Run a series of performance analyses on the example functions and your functions, present the data (resource use, throughput, RTT, etc). Extend to provide rabbitMQ/celery background tasking service to spawn asynchronous, long running tasks. Determine how to error check, kill, prevent task bombs, and enable other robustness features.
+* Implement profiling for Go AWS Lambda functions. Test, stress, use, and extend this FaaS system (single node and multinode). Write a set of different go functions from scratch that you use to do something interesting in the system. Run a series of performance analyses on the example functions and your functions, present the data (resource use, throughput, RTT, etc). Extend to provide rabbitMQ/celery background tasking service to spawn asynchronous, long running tasks. Determine how to error check, kill, prevent task bombs, and enable other robustness features.
+
 http://blog.alexellis.io/functions-as-a-service/
 https://github.com/alexellis/faas/
 https://medium.com/@mweagle/a-go-framework-for-aws-lambda-ab14f0c42cb#.r6qaulxan

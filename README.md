@@ -32,4 +32,4 @@ http://www.avitzurel.com/blog/2016/06/17/writing-an-aws-lambda-function-with-gol
 
 > localhost:4000
 
-[[https://github.com/Heronalps/GO_AWS_Lambda/blob/master/docker/service_stack.png|alt=octocat]]
+![alt tag](https://github.com/Heronalps/GO_AWS_Lambda/blob/master/docker/service_stack.png)

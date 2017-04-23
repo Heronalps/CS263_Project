@@ -25,3 +25,9 @@ https://github.com/eawsy/aws-lambda-go
 https://github.com/apex/apex
 
 http://www.avitzurel.com/blog/2016/06/17/writing-an-aws-lambda-function-with-golang/
+
+* Docker image:
+
+> docker run -p 4000:80 heronalps/first_repo:version1.0
+
+> localhost:4000

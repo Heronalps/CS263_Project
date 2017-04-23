@@ -31,3 +31,5 @@ http://www.avitzurel.com/blog/2016/06/17/writing-an-aws-lambda-function-with-gol
 > docker run -p 4000:80 heronalps/first_repo:version1.0
 
 > localhost:4000
+
+[[https://github.com/heronalps/GO_AWS_Lambda/docker/service_stack.png|alt=octocat]]

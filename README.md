@@ -12,23 +12,6 @@ Spring 2017 CS263 Project repo.
 >
 > Extend to provide rabbitMQ/celery background tasking service to spawn asynchronous, long running tasks. Determine how to error check, kill, prevent task bombs, and enable other robustness features.
 
-* References:
-
-> http://blog.alexellis.io/functions-as-a-service/
-
-> https://github.com/alexellis/faas/
-
-> https://medium.com/@mweagle/a-go-framework-for-aws-lambda-ab14f0c42cb#.r6qaulxan
-
-> https://github.com/eawsy/aws-lambda-go
-
-> https://github.com/apex/apex
-
-> http://www.avitzurel.com/blog/2016/06/17/writing-an-aws-lambda-function-with-golang/
-
-
-
-
 * [Project Weekly Progress Doc](https://docs.google.com/document/d/1tHw5Rg2PnelCtNK6GbNgs5Au3scM_-QwTklzjQPyCtA/edit?usp=sharing)
 
 
@@ -39,3 +22,18 @@ Spring 2017 CS263 Project repo.
 > localhost:4000
 
 ![alt tag](https://github.com/Heronalps/GO_AWS_Lambda/blob/master/docker/service_stack.png)
+
+
+* References:
+
+> http://blog.alexellis.io/functions-as-a-service/
+>
+> https://github.com/alexellis/faas/
+>
+> https://medium.com/@mweagle/a-go-framework-for-aws-lambda-ab14f0c42cb#.r6qaulxan
+>
+> https://github.com/eawsy/aws-lambda-go
+>
+> https://github.com/apex/apex
+>
+> http://www.avitzurel.com/blog/2016/06/17/writing-an-aws-lambda-function-with-golang/

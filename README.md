@@ -14,20 +14,22 @@ Spring 2017 CS263 Project repo.
 
 * References:
 
-http://blog.alexellis.io/functions-as-a-service/
+> http://blog.alexellis.io/functions-as-a-service/
 
-https://github.com/alexellis/faas/
+> https://github.com/alexellis/faas/
 
-https://medium.com/@mweagle/a-go-framework-for-aws-lambda-ab14f0c42cb#.r6qaulxan
+> https://medium.com/@mweagle/a-go-framework-for-aws-lambda-ab14f0c42cb#.r6qaulxan
 
-https://github.com/eawsy/aws-lambda-go
+> https://github.com/eawsy/aws-lambda-go
 
-https://github.com/apex/apex
+> https://github.com/apex/apex
 
-http://www.avitzurel.com/blog/2016/06/17/writing-an-aws-lambda-function-with-golang/
+> http://www.avitzurel.com/blog/2016/06/17/writing-an-aws-lambda-function-with-golang/
 
 
-[Project progress document](https://docs.google.com/document/d/1tHw5Rg2PnelCtNK6GbNgs5Au3scM_-QwTklzjQPyCtA/edit?usp=sharing)
+
+
+* [Project Weekly Progress Doc](https://docs.google.com/document/d/1tHw5Rg2PnelCtNK6GbNgs5Au3scM_-QwTklzjQPyCtA/edit?usp=sharing)
 
 
 * Docker image:

@@ -32,6 +32,10 @@ Spring 2017 CS263 Project repo.
 >
 > https://medium.com/@mweagle/a-go-framework-for-aws-lambda-ab14f0c42cb#.r6qaulxan
 >
+> https://serifandsemaphore.io/go-amazon-lambda-7e95a147cec8
+>
+> https://aws.amazon.com/blogs/compute/container-reuse-in-lambda/
+>
 > https://github.com/eawsy/aws-lambda-go
 >
 > https://github.com/apex/apex

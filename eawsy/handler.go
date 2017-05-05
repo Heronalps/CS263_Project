@@ -7,5 +7,5 @@ import (
 )
 
 func Handle(evt json.RawMessage, ctx *runtime.Context) (interface{}, error) {
-    return "Hello, World!", nil
+    return "Hello, Michael!", nil
 }

@@ -12,8 +12,6 @@ Spring 2017 CS263 Project repo.
 >
 > Extend to provide rabbitMQ/celery background tasking service to spawn asynchronous, long running tasks. Determine how to error check, kill, prevent task bombs, and enable other robustness features.
 
-* [Project Weekly Progress Doc](https://docs.google.com/document/d/1tHw5Rg2PnelCtNK6GbNgs5Au3scM_-QwTklzjQPyCtA/edit?usp=sharing)
-
 
 * Docker image:
 
